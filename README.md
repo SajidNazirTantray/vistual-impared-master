@@ -1,6 +1,6 @@
 # DobaraMatPuchana
 
-## **Jyoti** : Assistant for blind
+## **sajid** : Assistant for blind
 
 A *voice assistant* specifically aiming towards aiding the visually imapired.
 
